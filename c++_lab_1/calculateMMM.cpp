@@ -15,12 +15,28 @@ int * sorted(int array[5]) {
 	return array;
 }
 
-int mode(int array[4]) {
+void mode(int array[5]) {
+	int numCount[5];
+	int counter = 0;
+	cout<<"Sorted Array"<<endl;
+	for(int i=0;i<5;i++){
+		cout<<array[i]<<endl;
+}
 cout<<"Inside Mode"<<endl;
-for(int i=0;i<=4;i++){
-	cout<<array[i]<<endl;
+for(int i=0;i<5;i++){
+	counter = 0;
+	for(int j=0;j<5;j++){
+		if(array[i] == array[j]){
+			counter++;
+		}
+		numCount[i] = counter;
+	}
 } 
-return 0;
+
+for(int i=0;i<5;i++){
+	
+}
+
 }
 
 int median(int array[5]) {
