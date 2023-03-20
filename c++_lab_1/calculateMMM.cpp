@@ -1,11 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int * sorted(int array[4]) {
-	int number;
-	int counter =0;
-	for (int i=0; i<=4;i++){
-		for(int j=i+1; j<=4;j++){
+int * sorted(int array[5]) {
+	for (int i=0; i<5;i++){
+		for(int j=i+1; j<5;j++){
 			if(array[i] > array[j]){
 				int temp = array[i];
 				array[i] = array[j];
@@ -13,9 +11,6 @@ int * sorted(int array[4]) {
 
 			}
 		}	
-	}
-	for(int i=0;i<=4;i++){
-		cout<<array[i]<<endl;
 	}
 	return array;
 }
@@ -28,9 +23,9 @@ for(int i=0;i<=4;i++){
 return 0;
 }
 
-int median(int array[4]) {
+int median(int array[5]) {
 	int value;
-	for(int i=0;i<=4;i++) {
+	for(int i=0;i<5;i++) {
 		if(i == 2){
 		 value=array[i];
 		}
@@ -39,7 +34,7 @@ int median(int array[4]) {
 }
 
 int main() {
-	int numsArray[4];
+	int numsArray[5];
 	int *sortedArray;
 	int sum = 0;
 
@@ -54,7 +49,7 @@ int main() {
 	cout<<"Enter num5"<<endl;
 	cin>>numsArray[4];
 
-	for(int i =0;i<=4;i++){
+	for(int i =0;i<5;i++){
 		sum+=numsArray[i];
 	}
 
