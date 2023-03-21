@@ -17,13 +17,11 @@ int * sorted(int array[5]) {
 
 int mode(int array[5]) {
 	int numCount[5];
-	int *tempCount;
-	int counter = 0;
 	int mode;
 
-// using for loop to count number occurences and store in numCount array
+// using for loop to count number occurrences and store in numCount array
 for(int i=0;i<5;i++){
-	counter = 0;
+	int counter = 0;
 	for(int j=0;j<5;j++){
 		if(array[i] == array[j]){
 			counter++;
@@ -33,18 +31,18 @@ for(int i=0;i<5;i++){
 } 
 
 // assigning numCount to tempCount
-tempCount = numCount;
+int maxOccurrence = numCount[0];
 
-// loop through the tempCount to find the highest occurence number
+// loop through the tempCount to find the highest occurrence number
 for(int i=0;i<5;i++){
-	if(tempCount[0] < tempCount[i]){
-		tempCount[0] = tempCount[i];
+	if(maxOccurrence < numCount[i]){
+		maxOccurrence = numCount[i];
 	}
 }
 
-// loop through numCount for most occurence index and insert index in array
+// loop through numCount for most occurrence index and insert index in array
 for(int i=0;i<5;i++){
-	if(numCount[i] == tempCount[0]){
+	if(numCount[i] == maxOccurrence){
 		mode = array[i];
 		break;
 	}
@@ -71,7 +69,7 @@ int main() {
 
 // using for loop to get user input
 for(int i=0;i<5;i++){
-	cout<<"Enter num"<<i<<endl;
+	cout<<"Enter num"<<i+1<<endl;
 	cin>>numsArray[i];
 }
 
