@@ -1,8 +1,10 @@
-public class Trader extends Account {
+public class Trader  {
     private String name;
-    Trade trade;
-    Trader(Trade trade){
-        this.trade = trade;
+   private Account account;
+
+    Trader(String name){
+        this.name = name;
+        this.account = new Account();
     }
 
     public void setName(String name) {
@@ -13,9 +15,13 @@ public class Trader extends Account {
         return name;
     }
 
-    public void addTrade() {
-        double value = trade.getPrice() * trade.getQuantity();
-        this.setTotal(value);
+    public void addTrade(Trade trade) {
+        double value = trade.getQuantity() * trade.getPrice();
+        account.setTotal(value);
+    }
+
+    void getAccountValue() {
+        System.out.println(account.getTotal());
     }
 
 
