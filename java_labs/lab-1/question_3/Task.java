@@ -2,7 +2,7 @@ class Task {
 	public static void main(String[] args){
 		int rand;
 
-		rand = (int)Math.floor(Math.random() * 10);
+		rand = (int)(Math.random() * 10);
 
 		switch(rand){
 			case 0:
