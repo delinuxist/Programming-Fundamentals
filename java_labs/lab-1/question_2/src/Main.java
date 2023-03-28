@@ -5,6 +5,15 @@ public class Main {
         rand = Math.floor(Math.random() * 100);
 
         System.out.println(rand);
+
+        // checking if number is even or an odd number
+        if(rand %2 != 0){
+            System.out.println("Odd number");
+        } else {
+            System.out.println("Even number");
+        }
+
+        // checking temp of rand
         if (rand == 0) {
             System.out.println("Frozen");
         } else if(rand >= 1 && rand <= 14){
