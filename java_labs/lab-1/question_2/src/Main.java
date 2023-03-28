@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        double rand;
+        int rand;
 
-        rand = Math.floor(Math.random() * 100);
+        rand = (int)(Math.random() * 100) + 1;
 
         System.out.println(rand);
 
