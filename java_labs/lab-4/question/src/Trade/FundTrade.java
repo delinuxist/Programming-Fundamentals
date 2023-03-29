@@ -7,7 +7,7 @@ public class FundTrade extends Trade {
         this.dividendPercentage = dividendPercentage;
     }
     @Override
-    double calcDividend() {
+    public double calcDividend() {
         return (this.getPrice()*(dividendPercentage/100));
     }
 }

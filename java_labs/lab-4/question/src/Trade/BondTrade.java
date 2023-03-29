@@ -8,7 +8,7 @@ public class BondTrade extends Trade{
         this.dividend = dividend;
     }
     @Override
-    double calcDividend() {
+    public double calcDividend() {
         return dividend;
     }
 }

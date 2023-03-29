@@ -25,20 +25,15 @@ public class Client {
     public void upgradeClient () {
         if(this.points >= 0 && this.points <10){
             type = new Bronze(Membership.Bronze);
-        } else if(this.points >=10 && this.points <= 19) {
+        } else if(this.points >=10 && this.points < 19) {
             type = new Silver(Membership.Silver);
         } else {
             type = new Gold(Membership.Gold);
         }
     }
     public void addTrade(Trade trade) {
-        if(this.limit < 5) {
             this.points++;
             upgradeClient();
-            this.limit++;
-        }else {
-            return;
-        }
     }
 
     public void canTrade() {
