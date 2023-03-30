@@ -16,10 +16,9 @@ public class Main {
         cl1.addTrade(t1);
         cl1.addTrade(t2);
         cl1.addTrade(t3);
-        cl1.addTrade(t1);
-        cl1.addTrade(t1);cl1.addTrade(t1);cl1.addTrade(t1);cl1.addTrade(t1);
-        cl2.addTrade(t1);
 
+
+        cl1.canTrade();
         System.out.println(cl1);
         System.out.println(cl2);
     }
