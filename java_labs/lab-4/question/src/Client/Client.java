@@ -23,9 +23,9 @@ public class Client {
     }
 
     public void upgradeClient () {
-        if(this.points >= 0 && this.points <10){
+        if(this.points >= type.getMin() && this.points < type.getMax()-10){
             type = new Bronze(Membership.Bronze);
-        } else if(this.points >=10 && this.points < 19) {
+        } else if(this.points >= type.getMin()+10 && this.points < type.getMax()) {
             type = new Silver(Membership.Silver);
         } else {
             type = new Gold(Membership.Gold);
@@ -34,10 +34,11 @@ public class Client {
     public void addTrade(Trade trade) {
             this.points++;
             upgradeClient();
+            this.limit++;
     }
 
     public void canTrade() {
-        if(limit > 5){
+        if(limit > type.getLimit()){
             System.out.println("Can't trade");
         } else {
             System.out.println("Can trade");

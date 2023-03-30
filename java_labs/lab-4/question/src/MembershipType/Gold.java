@@ -8,4 +8,9 @@ public class Gold extends MembershipBase {
         super(type);
     }
 
+    @Override
+    public void addMembershipLimit() {
+        this.setLimit(20);
+    }
+
 }
