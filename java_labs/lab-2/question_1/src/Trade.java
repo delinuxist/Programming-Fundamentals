@@ -35,8 +35,13 @@ public class Trade {
         return quantity;
     }
 
-    @Override()
-    public String toString(){
-        return (id + " " + symbol + " "+ quantity + " "+ price);
+    @Override
+    public String toString() {
+        return "Trade{" +
+                "id='" + id + '\'' +
+                ", symbol='" + symbol + '\'' +
+                ", quantity=" + quantity +
+                ", price=" + price +
+                '}';
     }
 }

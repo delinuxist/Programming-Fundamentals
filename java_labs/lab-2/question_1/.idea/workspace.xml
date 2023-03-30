@@ -4,24 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8820fcd7-9fd2-4dcf-b12a-9e13b98436e4" name="Changes" comment="">
-
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/MembershipBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/MembershipBase.java" afterDir="false" />
+    <list default="true" id="a386f92d-3b2d-47bb-bf35-4c0efcd757c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/question_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/src/Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-1/question_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-1/question_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/question_1/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/question_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/question_1/Trade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/question_1/Trader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Client/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Bronze.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Bronze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Gold.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Gold.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/MembershipBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/MembershipBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Silver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Silver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/BondTrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/BondTrade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/Trade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/Trade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/Client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Bronze.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Bronze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Gold.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Gold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/MembershipBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/MembershipBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Silver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Silver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Trade/BondTrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/Trade/BondTrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Trade/Trade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/Trade/Trade.java" afterDir="false" />
     </list>
-    <list default="true" id="8820fcd7-9fd2-4dcf-b12a-9e13b98436e4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -29,38 +50,27 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2NeNpEPjMWUVFXCFvqlfNpQ1noz" />
+  <component name="ProjectId" id="2NjxxFg4vMvN7Js25G1MbFufRCO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/emmanuel.twene/Desktop/Project/Programming-Fundamentals/java_labs/lab-2/question_1"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8820fcd7-9fd2-4dcf-b12a-9e13b98436e4" name="Changes" comment="" />
-      <created>1680020768403</created>
+      <changelist id="a386f92d-3b2d-47bb-bf35-4c0efcd757c9" name="Changes" comment="" />
+      <created>1680191536425</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680020768403</updated>
+      <updated>1680191536425</updated>
     </task>
     <servers />
-  </component>
-</project>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
