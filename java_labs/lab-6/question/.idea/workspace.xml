@@ -5,57 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4dacf8bd-bcd3-46cf-ad6f-5f025bef280b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/MembershipType/Bronze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/enums/Membership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/Client/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/MembershipType/Bronze.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/MembershipType/Gold.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/MembershipType/MembershipBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/MembershipType/Silver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/Trade/BondTrade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/Trade/FundTrade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/Trade/Trade.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-4/question/target/classes/enums/Membership.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayList/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Set/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_core_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Set/SetExampleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab-1/question_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-1/question_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab-2/question_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-2/question_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-2/question_1/out/production/question_1/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-2/question_1/out/production/question_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-2/question_1/out/production/question_1/Trade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-2/question_1/out/production/question_1/Trader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Client/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Bronze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Gold.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/MembershipBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Silver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/BondTrade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/FundTrade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/Trade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/enums/Membership.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/question.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/question.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/Client/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Bronze.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Gold.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/MembershipType/Gold.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/MembershipBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/MembershipType/MembershipBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Silver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/MembershipType/Silver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Trade/BondTrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/Trade/BondTrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Trade/FundTrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/Trade/FundTrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Trade/Trade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/main/java/Trade/Trade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/enums/Membership.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question.iml" beforeDir="false" afterPath="$PROJECT_DIR$/question.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -88,9 +62,19 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Set" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
