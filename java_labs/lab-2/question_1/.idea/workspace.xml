@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a386f92d-3b2d-47bb-bf35-4c0efcd757c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/question_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/src/Range.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab-1/question_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-1/question_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/question_1/Account.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/question_1/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/question_1/Trade.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/question_1/Trader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Trader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Client/Client.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Bronze.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Bronze.class" afterDir="false" />
