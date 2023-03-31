@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="394b5851-5553-4851-9efe-26760a6a0897" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../lab-2/question_1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-2/question_1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab-2/question_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-2/question_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/question_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab-5/question_2/src/Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Client/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Bronze.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Bronze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Gold.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Gold.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/MembershipBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/MembershipBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Silver.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/MembershipType/Silver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/BondTrade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/BondTrade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/Trade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/out/production/question/Trade/Trade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/Client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Bronze.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Bronze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Gold.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Gold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/MembershipBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/MembershipBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Silver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/MembershipType/Silver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Trade/BondTrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/Trade/BondTrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab-4/question/src/Trade/Trade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab-4/question/src/Trade/Trade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
